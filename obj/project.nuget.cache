@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "/9x2RRn6EOFzbEx6pw/BPHCvzy2VOzBlvRE+MI+a+ju6QJ+lqwicv/h0lHCIENFhqMOnSz9PTQF7rHDSRasT0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\Teste\\myAppTest\\AZ_ServiceBus\\myAppTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\azure.core\\1.44.0\\azure.core.1.44.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\azure.core.amqp\\1.3.1\\azure.core.amqp.1.3.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\azure.messaging.servicebus\\7.18.2\\azure.messaging.servicebus.7.18.2.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.azure.amqp\\2.6.7\\microsoft.azure.amqp.2.6.7.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.clientmodel\\1.1.0\\system.clientmodel.1.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.memory.data\\6.0.0\\system.memory.data.6.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.text.json\\6.0.9\\system.text.json.6.0.9.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
